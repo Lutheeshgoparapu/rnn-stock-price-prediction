@@ -93,7 +93,7 @@ plt.show()
 ![image](https://github.com/Lutheeshgoparapu/rnn-stock-price-prediction/assets/94154531/845a310e-16dd-4078-83db-edcd2a9ece5f)
 
 
-### Mean Square Error
+
 
 ![image](https://github.com/Lutheeshgoparapu/rnn-stock-price-prediction/assets/94154531/49bfff8c-fc53-47c5-896a-75a9007d1344)
 
