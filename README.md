@@ -85,6 +85,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
+```
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
